@@ -1,0 +1,8 @@
+Backend/node_modules
+Backend/src/database/dev.sqlite3
+Backend/src/database/test.sqlite3
+
+Frontend/node_modules
+mobile/appbethehero/node_modules
+Video-Aulas
+
